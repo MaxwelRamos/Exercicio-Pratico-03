@@ -1,0 +1,15 @@
+.users {
+  color: #808080;
+}
+
+.usersLista__item {
+  font-size: 14px;
+}
+
+.usersLista__item--quantidade {
+  color: red;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=estilo.css.map */
